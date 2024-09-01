@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CustomerServiceApplicationTests" project="customer-service" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.wipro.CustomerServiceApplicationTests" time="0.492" displayname="CustomerServiceApplicationTests" uniqueid="[engine:junit-jupiter]/[class:com.wipro.CustomerServiceApplicationTests]">
+    <testcase name="contextLoads" classname="com.wipro.CustomerServiceApplicationTests" time="0.492" displayname="contextLoads()" uniqueid="[engine:junit-jupiter]/[class:com.wipro.CustomerServiceApplicationTests]/[method:contextLoads()]"/>
+  </testsuite>
+</testrun>
